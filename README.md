@@ -40,6 +40,7 @@ Open datasets that GP generates include:
 - [MPAS](https://mpas-dev.github.io/) (WX): Global climate forecast model developed by NCAR and implemented by Enki Research and Global Parametrics. Covers the time period from 1960 to Present. Daily data.
 - [WRF-ARW](https://www.mmm.ucar.edu/weather-research-and-forecasting-model) (WX): Global climate forecast model developed by NCAR, NCEP, and AFWA and implemented by Enki Research and Global Parametrics. Covers the time period from 1960 to Present. Daily data.
 - Fea (TC): Parametric tropical cyclone hazard (wind, precipitation, storm surge, wave), damage, and economic loss models developed by Enki Research and implemented by Global Parametrics.
+- [GA-TCRM](https://geoscienceaustralia.github.io/tcrm/docs/intro.html) (TC): Parametric tropical cyclone track generation and hazard (wind, precipitation, storm surge, wave) models developed by Geoscience Australia and implemented by Global Parametrics.
 - Beria (EQ): Parametric earthquake hazard (pga), damage, and economic loss models developed by Enki Research and implemented by Global Parametrics.
  - [GEM-OQ](https://www.globalquakemodel.org/) (EQ): Parametric earthquake hazard (pga, sa) model developed by the Global Earthquake Model and implemented by Global Parametrics.
 - Macha (EX): Global exposure dataset for risk modeling developed by Enki Research and implemented by Global Parametrics.

@@ -2,7 +2,7 @@
 An overview of data sources used by Global Parametrics for index development
 
 ## GP Data Classes
-GP maintains a repository of climatology, forecast, and extreme event data that is useful for assessing risk from geophysical phenomena.  These datasets are broadly characterized with the following nomenclature:
+GP maintains a repository of climatology, forecast, and extreme event data that is useful for assessing risk from geophysical phenomena.  These datasets are broadly characterized in the following data classes:
 - Weather (WX)
 - Tropical Cyclone (TC)
 - Earthquake (EQ)

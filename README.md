@@ -47,6 +47,6 @@ Open datasets that GP generates include:
 - Macha (EX): Global exposure dataset for risk modeling developed by Enki Research and implemented by Global Parametrics.
 - Lachesis (EX): Global high-resolution exposure dataset developed by Enki Research and implemented by Global Parametrics.
 
-<a name="footnote_1">1</a>: Archival data available, database under development  
-<a name="footnote_2">2</a>: Archival data and database under development  
-<a name="footnote_3">3</a>: Available for select regions  
+<sub><a name="footnote_1">1</a>: Archival data available, database under development</sub>  
+<sub><a name="footnote_2">2</a>: Archival data and database under development</sub>  
+<sub><a name="footnote_3">3</a>: Available for select regions</sub>  
